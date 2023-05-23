@@ -1,0 +1,13 @@
+body{
+    margin: 0em;
+}
+.cover{
+    height: 400px;
+    background-image: url("1.jpg");
+    background-color: lightslategray;
+    color: brown;
+    background-size: cover;
+    background-position: center;
+    background-color: rgb(0,0,0,0.5);
+    background-blend-mode: darken;
+}
