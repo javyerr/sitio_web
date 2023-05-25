@@ -3,11 +3,23 @@ body{
 }
 .cover{
     height: 400px;
-    background-image: url("1.jpg");
+    background-image: url("1_.jpg");
     background-color: lightslategray;
-    color: brown;
+    color: white;
     background-size: cover;
     background-position: center;
     background-color: rgb(0,0,0,0.5);
     background-blend-mode: darken;
 }
+
+.cover-small {
+    height: 200px;
+    background-blend-mode: normal;
+
+}
+
+.card-title {
+    font-family: 'dancing script',cursive;
+    min-height: 3rem;
+}
+h1{font-family: 'Josefin Sans', sans-serif;}
